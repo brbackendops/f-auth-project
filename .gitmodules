@@ -1,0 +1,9 @@
+[submodule "golang"]
+	path = golang
+	url = https://github.com/brbackendops/f-golang-auth
+[submodule "nodejs"]
+	path = nodejs
+	url = https://github.com/brbackendops/f-node-auth
+[submodule "python"]
+	path = python
+	url = https://github.com/brbackendops/f-python-auth
