@@ -5,6 +5,8 @@
 I developed this project in three langauges because I have over 2+ exp in backend development. And Because the project is small, I thought it will be good idea to go for all options. I have tried my best with this test and rest is up to you !
 [ skipped kubernetes implementation , logging , EFL stack ] (I thought to implement this but I have no time to go for it ...! )
 
+- I have exposed .env configs in repo , to make appllication to run easily in local with env variables
+
 #### CI pipeline with github actions
 
 * Included CI pipeline with github action to automate workflow for reducing errors
